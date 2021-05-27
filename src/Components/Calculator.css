@@ -1,0 +1,41 @@
+.contenedor{
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border: grey solid;
+    border-radius: 5px;
+    background-color: rgb(163, 87, 87);
+    
+}
+.numero{
+    width: 100%;
+    
+    
+}
+.numero button{
+    margin: 3px;
+    width: 15%;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(184, 34, 164);
+}
+.numero button:hover{
+    background-color: rgb(204, 47, 144);
+}
+#func{
+    background-color: rgb(202, 74, 153);
+}
+#func:hover{
+    background-color: rgb(114, 61, 94);
+}
+.header{
+    width: 100%;
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.header h1{
+    padding: 2px;
+}
